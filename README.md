@@ -21,7 +21,7 @@ To run this project locally or on your own Oracle APEX Cloud workspace:
 1. Navigate to the **SQL Workshop > SQL Scripts** in your APEX environment.
 2. Upload and run the provided SQL scripts to create the necessary tables, insert sample data, and initialize the PL/SQL triggers.
 3. Navigate to **App Builder > Import**.
-4. Upload the `f101.sql` (or equivalent application export file) to install the graphical user interface.
+4. Upload the `App Source.sql` (or equivalent application export file) to install the graphical user interface.
 5. Run the application and log in using your workspace credentials.
 
 ## Academic Disclaimer
